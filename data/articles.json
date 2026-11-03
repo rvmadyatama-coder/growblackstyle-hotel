@@ -1,0 +1,50 @@
+[
+    {
+        "slug":  "crypto-volatility-risks",
+        "title":  "Crypto Volatility: Risks to Understand | GrowBlackStyle",
+        "category":  "crypto",
+        "categoryName":  "Cryptocurrency",
+        "description":  "Understand volatility, liquidity, market structure and the risks of cryptocurrency markets.",
+        "url":  "/articles/crypto-volatility-risks/"
+    },
+    {
+        "slug":  "how-interest-rates-affect-stocks",
+        "title":  "How Interest Rates Can Affect Stocks | GrowBlackStyle",
+        "category":  "stocks",
+        "categoryName":  "Stocks",
+        "description":  "Explore how interest rates affect equity valuations, company financing and investor expectations.",
+        "url":  "/articles/how-interest-rates-affect-stocks/"
+    },
+    {
+        "slug":  "inflation-data-financial-markets",
+        "title":  "Inflation Data and Financial Markets | GrowBlackStyle",
+        "category":  "economy",
+        "categoryName":  "Economy",
+        "description":  "Learn how inflation releases and market expectations influence financial markets.",
+        "url":  "/articles/inflation-data-financial-markets/"
+    },
+    {
+        "slug":  "practical-guide-trading-risk",
+        "title":  "A Practical Guide to Trading Risk | GrowBlackStyle",
+        "category":  "trading-education",
+        "categoryName":  "Trading Education",
+        "description":  "Learn position sizing, risk budgets, stop distances and practical trading risk management.",
+        "url":  "/articles/practical-guide-trading-risk/"
+    },
+    {
+        "slug":  "what-influences-gold-prices",
+        "title":  "What Can Influence Gold Prices? | GrowBlackStyle",
+        "category":  "gold",
+        "categoryName":  "Gold",
+        "description":  "Explore the economic forces, interest rates and market conditions influencing gold prices.",
+        "url":  "/articles/what-influences-gold-prices/"
+    },
+    {
+        "slug":  "what-moves-currency-markets",
+        "title":  "What Moves Currency Markets? | GrowBlackStyle",
+        "category":  "forex",
+        "categoryName":  "Forex",
+        "description":  "Understand exchange rates, interest-rate expectations and currency market movements.",
+        "url":  "/articles/what-moves-currency-markets/"
+    }
+]
